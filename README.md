@@ -10,7 +10,7 @@ Some of the code is based on the [SDL_bgi](https://sdl-bgi.sourceforge.io/) proj
 
 This "Grill simulator" example was created with BGI2.
 
-![](https://github.com/tdanyluk/bgi2/example/grill_example.gif)
+![](https://raw.githubusercontent.com/tdanyluk/bgi2/main/example/grill_example.gif)
 
 ## Hello world!
 
