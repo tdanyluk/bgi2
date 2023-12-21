@@ -2,7 +2,7 @@
 
 A simple SDL2 based graphics library, which provides BGI style graphics in modern C++ (≥17).
 
-The library is intentionally not GPU accelerated, but provides good performance for 2D graphics. (2000FPS for 800x600 is possible on a 1Ghz processor, assuming each pixel is written only once per frame).
+The library is intentionally not GPU accelerated, but provides good performance for 2D graphics. (>10.000FPS *rendering* for the "grill simulator" example).
 
 Some of the code is based on the [SDL_bgi](https://sdl-bgi.sourceforge.io/) project, but it is written in modern C++ instead of C.
 
